@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.81dcb94b.css",
+    "main.js": "/portfolio/static/js/main.56a9ba5c.js",
+    "static/media/booking.png": "/portfolio/static/media/booking.173d17915ad04510848a.png",
+    "static/media/GQ2.png": "/portfolio/static/media/GQ2.fc75e63aeb0906581a3f.png",
+    "static/media/livechat.png": "/portfolio/static/media/livechat.471315ee5795bf9caf45.png",
+    "static/media/react.png": "/portfolio/static/media/react.ef20e673b9282f8f30fd.png",
+    "index.html": "/portfolio/index.html",
+    "main.81dcb94b.css.map": "/portfolio/static/css/main.81dcb94b.css.map",
+    "main.56a9ba5c.js.map": "/portfolio/static/js/main.56a9ba5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81dcb94b.css",
+    "static/js/main.56a9ba5c.js"
+  ]
+}
